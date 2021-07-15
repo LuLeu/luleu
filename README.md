@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on an [Lobby System](https://github.com/LuLeu/Kotlin-Lobby) in [Kotlin](https://kotlinlang.org/)
 
-- 🌱 I’m currently learning **Kotlin an C++**
+- 🌱 I’m currently learning **Kotlin**
 
 - ⚡ Fun fact **I am just 15 years old :/**
 
