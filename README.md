@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luleu&label=Profile%20views&color=0e75b6&style=flat" alt="luleu" /> </p>
 
-- 🔭 I’m currently working on an [Lobby System](https://github.com/LuLeu/Kotlin-Lobby) in [Kotlin](https://kotlinlang.org/)
+- 🔭 I’m currently working on an [Lobbysystem](https://github.com/LuLeu/Kotlin-Lobby) for [Minecraft](https://minecraft.net) written in [Kotlin](https://kotlinlang.org/)
 
 - 🌱 I’m currently learning **Kotlin**
 
