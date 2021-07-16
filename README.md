@@ -17,4 +17,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocBrumm&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=luleu&theme=dark" alt="luleu" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=LucaLeukert&theme=dark" alt="LucaLeukert" /></p>
